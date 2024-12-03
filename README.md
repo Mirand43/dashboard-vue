@@ -82,7 +82,7 @@ Contribuições são bem-vindas!
 
 ---
 
-## 📞 **Contato**
+## 📞 **Contacto**
 
 - **Autor**: [António Miranda Quintas](https://github.com/Mirand43)  
 - **Email**: antoniomq99@gmail.com  
